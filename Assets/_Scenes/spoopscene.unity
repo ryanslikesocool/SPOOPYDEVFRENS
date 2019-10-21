@@ -3153,7 +3153,7 @@ GameObject:
   - component: {fileID: 489078465}
   - component: {fileID: 489078464}
   m_Layer: 0
-  m_Name: Andy Bae_0
+  m_Name: Andy Bae
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3234,13 +3234,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 489078463}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -15.467386, y: 1.3845634, z: -7.806989}
+  m_LocalRotation: {x: -0, y: 0.33776158, z: -0, w: 0.9412317}
+  m_LocalPosition: {x: -12.392, y: 0.314, z: 0.354}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 26
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 39.481003, z: 0}
 --- !u!1001 &492016706
 PrefabInstance:
   m_ObjectHideFlags: 0

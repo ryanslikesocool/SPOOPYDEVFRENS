@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: 90f193220bfcb406ead89b9909a280b2
+guid: ba3dc47e7a854443ea5850031956d562
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: natureKit-water
-    second: {fileID: 2100000, guid: 571cede1b478a46fd9916f8db9c368f2, type: 2}
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0

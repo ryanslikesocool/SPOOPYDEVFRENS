@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: f3038e77317584e4585a09242d21697c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5286526925737045442
+    second: Mac Ghost_0
+  - first:
+      213: -8503231210497343944
+    second: Mac Ghost_1
+  - first:
+      213: 7034452716897770813
+    second: Mac Ghost_2
+  - first:
+      213: -6145054346467523910
+    second: Mac Ghost_3
+  - first:
+      213: 2707649683641244646
+    second: Mac Ghost_4
+  - first:
+      213: 5894195667448280698
+    second: Mac Ghost_5
+  - first:
+      213: -3749543347504569575
+    second: Mac Ghost_6
+  - first:
+      213: 1557389937289397134
+    second: Mac Ghost_7
+  - first:
+      213: -2380951446922175864
+    second: Mac Ghost_8
+  - first:
+      213: 8700621693731211179
+    second: Mac Ghost_9
+  - first:
+      213: -3212031450705075259
+    second: Mac Ghost_10
+  - first:
+      213: -7984752807777079142
+    second: Mac Ghost_11
+  - first:
+      213: -9185322136665065279
+    second: Mac Ghost_12
+  - first:
+      213: 739789312697091079
+    second: Mac Ghost_13
+  - first:
+      213: -2016966513242831628
+    second: Mac Ghost_14
+  - first:
+      213: 7692198815609547984
+    second: Mac Ghost_15
+  - first:
+      213: -5535091315447303431
+    second: Mac Ghost_16
+  - first:
+      213: 7457411243515080823
+    second: Mac Ghost_17
+  - first:
+      213: -3580114726820131679
+    second: Mac Ghost_18
+  - first:
+      213: -599005769147025349
+    second: Mac Ghost_19
+  - first:
+      213: 8506872087069218196
+    second: Mac Ghost_20
+  - first:
+      213: -4562557493988561013
+    second: Mac Ghost_21
+  - first:
+      213: -6678686891290351009
+    second: Mac Ghost_22
+  - first:
+      213: 4756741324810791889
+    second: Mac Ghost_23
+  - first:
+      213: 7887916451929693047
+    second: Mac Ghost_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mac Ghost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1808
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9862de486261e46b1ae2dcd9f33f6318
+      internalID: -5286526925737045442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1808
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2372ebf537f4c1fa2b4baf85f82eb3
+      internalID: -8503231210497343944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1808
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff85adde2d6e047b69d807bc74f0cf72
+      internalID: 7034452716897770813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_3
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1808
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f926b7bb66deb41d6abfb450f7d6bd9f
+      internalID: -6145054346467523910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_4
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1808
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110222fb49e9f41e9a4594c820bb1bb4
+      internalID: 2707649683641244646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff1dade9863c4e6e818b56cbfe91506
+      internalID: 5894195667448280698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1356
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78cba58908584970a673ca062db4ab3
+      internalID: -3749543347504569575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_7
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1356
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0cfacd45ef94b4496ce410b9ba4689
+      internalID: 1557389937289397134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_8
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1356
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f1f0a6a0eab477ca89baf74ccab6ef
+      internalID: -2380951446922175864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_9
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1356
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0815d2d9ae6402096f2da01c285997
+      internalID: 8700621693731211179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bc429cbfc914dc3a80710ce12b0050
+      internalID: -3212031450705075259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 904
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22408db95d42f4399b87aabc7e901ce4
+      internalID: -7984752807777079142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_12
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 904
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868e2b6a9ed5431492b57269dbd9125
+      internalID: -9185322136665065279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_13
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 904
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbfbfb8df8cc4f2c95f33f0a27c7967
+      internalID: 739789312697091079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_14
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 904
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388f8a87b2b8e433e98603408fd1cbc6
+      internalID: -2016966513242831628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6f4204de09a42409d8b42e229b045c
+      internalID: 7692198815609547984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_16
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 452
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efb82c338b844f5eb19b8667fe30bba
+      internalID: -5535091315447303431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_17
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 452
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee96ebcddc934040981e19118449009
+      internalID: 7457411243515080823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_18
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 452
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a573aacd727440486a941e8f36a0fc
+      internalID: -3580114726820131679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_19
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 452
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec09f2ce1c7d4450ae31bee8ac80cb7
+      internalID: -599005769147025349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793e1ad22b68648bea9145d5fec92261
+      internalID: 8506872087069218196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9697b6a20fdcc461992119612bda2c58
+      internalID: -4562557493988561013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_22
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3e6450bbb2342778aa7dd33a402550
+      internalID: -6678686891290351009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_23
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d1ffb07fc6b4ad6a29b083215aff1a
+      internalID: 4756741324810791889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mac Ghost_24
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 348
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5d13de820a24fc682e61f56637d45a
+      internalID: 7887916451929693047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 23381faa989384a66a26ba39faac2f6f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

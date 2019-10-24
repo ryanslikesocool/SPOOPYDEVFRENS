@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 12a365027cf30ef45a908b2a67893aa5
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: chest
+  - first:
+      1: 100002
+    second: ghost base rig
+  - first:
+      1: 100004
+    second: //RootNode
+  - first:
+      1: 100006
+    second: head
+  - first:
+      1: 100008
+    second: head top
+  - first:
+      1: 100010
+    second: leg_l
+  - first:
+      1: 100012
+    second: leg_l_1
+  - first:
+      1: 100014
+    second: leg_l_2
+  - first:
+      1: 100016
+    second: leg_l_3
+  - first:
+      1: 100018
+    second: leg_l_4
+  - first:
+      1: 100020
+    second: leg_l_5
+  - first:
+      1: 100022
+    second: leg_r
+  - first:
+      1: 100024
+    second: leg_r_1
+  - first:
+      1: 100026
+    second: leg_r_2
+  - first:
+      1: 100028
+    second: leg_r_3
+  - first:
+      1: 100030
+    second: leg_r_4
+  - first:
+      1: 100032
+    second: leg_r_5
+  - first:
+      1: 100034
+    second: low tri
+  - first:
+      1: 100036
+    second: shoulder_l
+  - first:
+      1: 100038
+    second: shoulder_l_end
+  - first:
+      1: 100040
+    second: shoulder_r
+  - first:
+      1: 100042
+    second: shoulder_r_end
+  - first:
+      4: 400000
+    second: chest
+  - first:
+      4: 400002
+    second: ghost base rig
+  - first:
+      4: 400004
+    second: //RootNode
+  - first:
+      4: 400006
+    second: head
+  - first:
+      4: 400008
+    second: head top
+  - first:
+      4: 400010
+    second: leg_l
+  - first:
+      4: 400012
+    second: leg_l_1
+  - first:
+      4: 400014
+    second: leg_l_2
+  - first:
+      4: 400016
+    second: leg_l_3
+  - first:
+      4: 400018
+    second: leg_l_4
+  - first:
+      4: 400020
+    second: leg_l_5
+  - first:
+      4: 400022
+    second: leg_r
+  - first:
+      4: 400024
+    second: leg_r_1
+  - first:
+      4: 400026
+    second: leg_r_2
+  - first:
+      4: 400028
+    second: leg_r_3
+  - first:
+      4: 400030
+    second: leg_r_4
+  - first:
+      4: 400032
+    second: leg_r_5
+  - first:
+      4: 400034
+    second: low tri
+  - first:
+      4: 400036
+    second: shoulder_l
+  - first:
+      4: 400038
+    second: shoulder_l_end
+  - first:
+      4: 400040
+    second: shoulder_r
+  - first:
+      4: 400042
+    second: shoulder_r_end
+  - first:
+      21: 2100000
+    second: low
+  - first:
+      43: 4300000
+    second: low tri
+  - first:
+      74: 7400000
+    second: wibble
+  - first:
+      74: 7400002
+    second: static
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: low tri
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: low
+    second: {fileID: 2100000, guid: c7fca52860ba9de4aaa1104ad01a785f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: wibble
+      takeName: wibble
+      internalID: 7400000
+      firstFrame: -1
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: static
+      takeName: static
+      internalID: 7400002
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.001
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.001
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

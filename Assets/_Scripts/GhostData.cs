@@ -7,5 +7,4 @@ public class GhostData : ScriptableObject
 {
     public string discord;
     public string twitter;
-    public AnimationClip animationClip;
 }

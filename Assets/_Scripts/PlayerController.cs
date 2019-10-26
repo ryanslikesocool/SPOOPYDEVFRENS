@@ -12,15 +12,17 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float speed = 5f;
     [SerializeField] private float sensitivity = 3f;
     [SerializeField] private float jumpForce = 20f;
-    
-    
 
-    void Start(){
+
+
+    void Start()
+    {
         rb = gameObject.GetComponent<Rigidbody>();
         cam = gameObject.GetComponentInChildren<Camera>();
     }
 
-    void Update(){
+    void Update()
+    {
         //Calculate player speed as Vector3
         float xMov = Input.GetAxisRaw("Horizontal");
         float zMov = Input.GetAxisRaw("Vertical");
@@ -30,7 +32,7 @@ public class PlayerController : MonoBehaviour
 
         velocity = (moveHorizontal + moveVertical).normalized * speed; // Normalizing means total length of the vector = 1  
         rb.MovePosition(rb.position + velocity * Time.fixedDeltaTime);
-        
+
 
         //Calculate rotation as a Vector3
         float yRotation = Input.GetAxisRaw("Mouse X"); //y rotation affects player (turning left and right)
@@ -43,7 +45,8 @@ public class PlayerController : MonoBehaviour
         cam.transform.Rotate(-camRotation);
 
 
-        if(Input.GetButton("Jump")){
+        if (Input.GetButtonDown("Jump"))
+        {
             Vector3 jump = Vector3.up * jumpForce;
             rb.AddForce(jump);
         }

@@ -12,6 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f2ae19eb3844614a3d59fc102652d9, type: 3}
   m_Name: Andy Bae
   m_EditorClassIdentifier: 
-  discord: 'Andy Bae #2967'
+  discord: Andy Bae
   twitter: '@Bae_Yusung'
-  animationClip: {fileID: 7400000, guid: e62604fbdaf7449b092831386dcb854d, type: 2}

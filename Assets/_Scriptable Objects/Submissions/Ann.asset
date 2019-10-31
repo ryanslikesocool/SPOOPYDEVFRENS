@@ -12,7 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f2ae19eb3844614a3d59fc102652d9, type: 3}
   m_Name: Ann
   m_EditorClassIdentifier: 
-  discord: 'Ann #0854'
+  discord: Ann
   twitter: '@HeadBoopGames'
-  animationClip: {fileID: -3425851510108033817, guid: 0a4a2e36d44514740b78fa6dc206c0b9,
-    type: 3}

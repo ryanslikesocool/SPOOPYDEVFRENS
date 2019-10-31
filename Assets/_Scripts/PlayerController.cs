@@ -13,12 +13,15 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float sensitivity = 3f;
     [SerializeField] private float jumpForce = 20f;
 
+    private Vector3 startPos;
+
 
 
     void Start()
     {
         rb = gameObject.GetComponent<Rigidbody>();
         cam = gameObject.GetComponentInChildren<Camera>();
+        startPos = new Vector3(transform.position.x,transform.position.y,transform.position.z);
     }
 
     void Update()
@@ -49,6 +52,12 @@ public class PlayerController : MonoBehaviour
         {
             Vector3 jump = Vector3.up * jumpForce;
             rb.AddForce(jump);
+        }
+    }
+
+    void OnTriggerEnter(Collider col){
+        if(col.name == "Respawn"){
+            transform.position = startPos;
         }
     }
 }

@@ -12,6 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f2ae19eb3844614a3d59fc102652d9, type: 3}
   m_Name: Mac
   m_EditorClassIdentifier: 
-  discord: 'mac #1212'
-  twitter: 
-  animationClip: {fileID: 7400000, guid: ab7264b9bee4e46469b6fd8e506fc155, type: 2}
+  discord: mac
+  twitter: '@cieroceramics'

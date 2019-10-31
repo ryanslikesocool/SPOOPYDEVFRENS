@@ -12,6 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f2ae19eb3844614a3d59fc102652d9, type: 3}
   m_Name: spacenomad
   m_EditorClassIdentifier: 
-  discord: 'spacenomad #7256'
-  twitter: 
-  animationClip: {fileID: 7400000, guid: 0864f492df30d4a56b353b1c7c5686ec, type: 2}
+  discord: spacenomad
+  twitter: '@space_noomad'

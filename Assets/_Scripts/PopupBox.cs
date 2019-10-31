@@ -12,7 +12,8 @@ public class PopupBox : MonoBehaviour
     [SerializeField]
     private Transform canvasTransform;
     [SerializeField]
-    private TextMeshProUGUI textArea;
+    private TextMeshProUGUI textAreaTwitter;
+    private TextMeshProUGUI textAreaName;
 
     private Vector3 initialCanvasScale;
     private Interpolator scaleInterpolator = new Interpolator(EasingType.BackOut);
@@ -23,7 +24,10 @@ public class PopupBox : MonoBehaviour
     {
         initialCanvasScale = canvasTransform.localScale;
         canvasTransform.localScale = Vector3.zero;
-        textArea.text = string.IsNullOrEmpty(information.twitter) ? "No Twitter :(" : information.twitter;
+        textAreaName = canvasTransform.Find("Name").GetComponent<TextMeshProUGUI>();
+        textAreaTwitter = canvasTransform.Find("Link").GetComponent<TextMeshProUGUI>();
+        textAreaTwitter.text = string.IsNullOrEmpty(information.twitter) ? "" : information.twitter;
+        textAreaName.text = information.discord;
     }
 
     void CancelScale()

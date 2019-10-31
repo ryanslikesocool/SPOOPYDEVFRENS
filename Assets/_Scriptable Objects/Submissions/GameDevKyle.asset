@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f2ae19eb3844614a3d59fc102652d9, type: 3}
   m_Name: GameDevKyle
   m_EditorClassIdentifier: 
-  discord: 'GameDevKyle #3363'
+  discord: GameDevKyle
   twitter: '@GameDevKyle_'

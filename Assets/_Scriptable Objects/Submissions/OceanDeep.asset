@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46f2ae19eb3844614a3d59fc102652d9, type: 3}
   m_Name: OceanDeep
   m_EditorClassIdentifier: 
-  discord: 'Ocean Deep #1553'
+  discord: Ocean Deep
   twitter: '@OceanDeepStudi1'

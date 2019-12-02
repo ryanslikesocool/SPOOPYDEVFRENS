@@ -4358,6 +4358,10 @@ ScriptedImporter:
   importedTextureWidth: 1024
   importedTextureHeight: 2048
   documentSize: {x: 1148, y: 1072}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
   textureActualWidth: 1024
   textureActualHeight: 2048
   spritePackingTag: 
@@ -4685,6 +4689,8 @@ ScriptedImporter:
         height: 189
       spriteId: a2dac42322f830a478371d02923b217a
       bones: 06000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 273
         y: 740
@@ -4692,6 +4698,8 @@ ScriptedImporter:
         height: 271
       spriteId: 85e69f69e934e1f45ac9af60bcb4b784
       bones: 130000001200000011000000100000000f000000150000001600000017000000180000001400000006000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 208
         y: 590
@@ -4699,6 +4707,8 @@ ScriptedImporter:
         height: 421
       spriteId: d0450b56b2448144bb609c8d870e1d8d
       bones: 06000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 453
         y: 424
@@ -4706,6 +4716,8 @@ ScriptedImporter:
         height: 185
       spriteId: 8e74a8d039d29484ea65addc590e8a25
       bones: 2f0000002e00000004000000050000000c000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 562
         y: 246
@@ -4713,6 +4725,8 @@ ScriptedImporter:
         height: 396
       spriteId: 25c8aa3a1556900439baf7e9ba3a6fea
       bones: 260000002700000025000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 469
         y: 249
@@ -4720,6 +4734,8 @@ ScriptedImporter:
         height: 357
       spriteId: 4aa58f67e400e4540bde37195e56b093
       bones: 2b0000002a0000002900000028000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 481
         y: 446
@@ -4727,6 +4743,8 @@ ScriptedImporter:
         height: 345
       spriteId: df8bd5525ce2a9c4a9b9f950092d641e
       bones: 03000000020000000400000005000000060000000800000007000000090000002f000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 758
         y: 447
@@ -4734,6 +4752,8 @@ ScriptedImporter:
         height: 334
       spriteId: aa39b596618c79a42b2935fc437af3ea
       bones: 0a000000090000000b00000008000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 682
         y: 437
@@ -4741,6 +4761,8 @@ ScriptedImporter:
         height: 322
       spriteId: 24cb4c189248d7345a5429dd199f307e
       bones: 0d0000000c0000000e000000080000000900000004000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 88
         y: 76
@@ -4748,7 +4770,10 @@ ScriptedImporter:
         height: 935
       spriteId: 3c64d6fd7e5edd24e8e33f1798e1c98c
       bones: 1e0000001d0000001c0000001f000000200000002100000022000000230000001b000000060000001a000000
+      parentGroup: 0
+      order: 0
     dimension: {x: 0, y: 0}
+    characterGroups: []
   boneGOs:
   - go: {fileID: 2084487994125831136, guid: aaf0d076f12b4364c92b8e211297166f, type: 3}
     index: 0
@@ -4849,3 +4874,4 @@ ScriptedImporter:
   generateGOHierarchy: 0
   textureAssetName: newtghost
   prefabAssetName: newtghost_GO
+  spriteLibAssetName: newtghost Sprite Lib

@@ -8199,6 +8199,7 @@ ScriptedImporter:
     textureFormat: -1
     textureCompression: 2
     compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
@@ -8209,6 +8210,10 @@ ScriptedImporter:
   importedTextureWidth: 512
   importedTextureHeight: 1024
   documentSize: {x: 720, y: 720}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
   textureActualWidth: 512
   textureActualHeight: 1024
   spritePackingTag: 
@@ -8464,6 +8469,8 @@ ScriptedImporter:
         height: 142
       spriteId: b1123272ac1034b4eb59c0aa862bf8c1
       bones: 050000000600000004000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 303
         y: 494
@@ -8471,6 +8478,8 @@ ScriptedImporter:
         height: 39
       spriteId: c0d10573115a89043ad68f093b26546d
       bones: 0f000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 259
         y: 520
@@ -8478,6 +8487,8 @@ ScriptedImporter:
         height: 45
       spriteId: da739586d4cf9174cb8ac246fd408869
       bones: 0e000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 222
         y: 481
@@ -8485,6 +8496,8 @@ ScriptedImporter:
         height: 44
       spriteId: 551c93172476e06438ffd982bf2f4ff9
       bones: 0d000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 612
         y: 377
@@ -8492,6 +8505,8 @@ ScriptedImporter:
         height: 42
       spriteId: 44c7493c49066e94fb57861e1e8beb26
       bones: 09000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 577
         y: 416
@@ -8499,6 +8514,8 @@ ScriptedImporter:
         height: 46
       spriteId: efd87bc6cf91d5244840d2d2f40eeabb
       bones: 08000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 538
         y: 389
@@ -8506,6 +8523,8 @@ ScriptedImporter:
         height: 44
       spriteId: ce20df1089ad8004799c7c39520eda19
       bones: 07000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 416
         y: 176
@@ -8513,6 +8532,8 @@ ScriptedImporter:
         height: 138
       spriteId: b6eb66df007734c4e9c4c2cbde98713f
       bones: 1b0000001a00000019000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 188
         y: 146
@@ -8520,6 +8541,8 @@ ScriptedImporter:
         height: 239
       spriteId: 6e3cd342425134546bfe9f3b02d1db6c
       bones: 120000001100000010000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 213
         y: 191
@@ -8527,6 +8550,8 @@ ScriptedImporter:
         height: 230
       spriteId: ee1f6aafc6c9eb04289666ac32098562
       bones: 150000001300000014000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 398
         y: 449
@@ -8534,6 +8559,8 @@ ScriptedImporter:
         height: 64
       spriteId: a70a8b72306aa5a4793fadfcb5637ba2
       bones: 03000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 312
         y: 1
@@ -8541,6 +8568,8 @@ ScriptedImporter:
         height: 482
       spriteId: ef08c0e57f4c7b448a6fa10d7ee7ff26
       bones: 18000000170000001600000000000000010000000200000003000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 403
         y: 461
@@ -8548,6 +8577,8 @@ ScriptedImporter:
         height: 129
       spriteId: 2ed07a804d414a947a0c6685c0403bfa
       bones: 03000000
+      parentGroup: 0
+      order: 0
     - spritePosition:
         x: 262
         y: 387
@@ -8555,7 +8586,10 @@ ScriptedImporter:
         height: 113
       spriteId: 1a08c94f91200fb4bbee55977d9cf94d
       bones: 0b0000000a0000000c000000
+      parentGroup: 0
+      order: 0
     dimension: {x: 0, y: 0}
+    characterGroups: []
   boneGOs:
   - go: {fileID: 7975165643407766030, guid: 212aacd33e156a545bc9bd69b86b72d2, type: 3}
     index: 0
@@ -8616,3 +8650,4 @@ ScriptedImporter:
   generateGOHierarchy: 0
   textureAssetName: GHOST Texture
   prefabAssetName: GHOST Prefab
+  spriteLibAssetName: GHOST Sprite Lib
